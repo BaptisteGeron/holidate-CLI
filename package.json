@@ -1,0 +1,29 @@
+{
+  "name": "@bgeron/holidate-cli",
+  "version": "1.0.0",
+  "description": "gives holiday dates of a given country",
+  "main": "index.js",
+  "bin": {
+    "holidate": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaptisteGeron/holidate-CLI.git"
+  },
+  "keywords": [
+    "holiday"
+  ],
+  "author": "@bgeron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaptisteGeron/holidate-CLI/issues"
+  },
+  "homepage": "https://github.com/BaptisteGeron/holidate-CLI#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "country-list": "^2.2.0"
+  }
+}
