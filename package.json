@@ -1,6 +1,6 @@
 {
   "name": "@bgeron/holidate-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gives holiday dates of a given country",
   "main": "index.js",
   "bin": {
